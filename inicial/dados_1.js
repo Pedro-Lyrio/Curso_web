@@ -14,3 +14,4 @@ console.log("O valor total do estoque é R$" + (quantidade * precoFinal) + ".");
 
 let nome2 = "caderno";
 console.log(nome2);
+console.log("teste git");
